@@ -1,0 +1,17 @@
+{
+  "name": "nodejscrawler",
+  "version": "1.0.0",
+  "description": "A crawler using node.js to obtain movie information from www.douban.com",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Haisheng Lin",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
